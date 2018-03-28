@@ -2,8 +2,6 @@ package Movie;
 
 import java.util.Scanner;
 
-import Dog.Dog;
-
 public class Movie {
 
 	String name, genre;
